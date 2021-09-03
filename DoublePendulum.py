@@ -1,3 +1,11 @@
+#Zain Kergaye
+
+
+#TODO: How to add libraries to visual studio and/or Rpi
+#TODO: Optimise for low system resources
+#! Libraries not working, FIX IT
+
+
 import sys
 import numpy as np
 from scipy.integrate import odeint
